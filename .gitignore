@@ -1,1 +1,22 @@
+# Node modules
 node_modules
+
+# Environment files
+.env
+.env.local
+
+# macOS junk
+.DS_Store
+__MACOSX/
+._*
+
+# Build output folders
+/build
+/dist
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
